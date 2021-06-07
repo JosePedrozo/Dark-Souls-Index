@@ -1,0 +1,55 @@
+body{
+	background: black;
+	margin: 0 1.5em 0 1.5em;
+}
+
+h1{
+    display: inline;
+    font-size: 45px;
+}
+
+p{
+	font-size: 18px;
+}
+
+body{
+	text-align: center;
+}
+
+.logo{
+	height: 50px;
+	vertical-align: bottom;
+}
+
+.titlearea {
+   text-align: center;
+    font-size: 30px;
+    word-wrap: normal;
+    background-position: 3px 4px;
+    border-top: 13px solid;
+    border-bottom: 13px solid;
+    margin: 18px 0px;
+    height: 45px;
+    line-height: 45px;
+    border-image: url(border.png) 30 20;
+ }
+
+ .artorias{
+	opacity: 1;
+	transition: 505ms all;
+}
+
+.artorias:hover{
+	opacity: 0.7;
+   transform: scale(1.5)
+ }
+
+
+
+ 
+
+
+
+
+
+
